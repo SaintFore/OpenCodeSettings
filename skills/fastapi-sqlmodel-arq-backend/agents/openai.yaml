@@ -1,0 +1,4 @@
+interface:
+  display_name: "FastAPI Backend Expert"
+  short_description: "FastAPI + SQLModel + Arq 异步后端架构与实现"
+  default_prompt: "使用 $fastapi-sqlmodel-arq-backend 设计并实现一个包含异步数据库、JWT 认证和 Arq 队列的后端模块。"

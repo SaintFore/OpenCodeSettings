@@ -1,0 +1,4 @@
+interface:
+  display_name: "Modern React Artist"
+  short_description: "Shadcn/UI + Framer Motion + RHF/Zod 的高质感 React 界面构建"
+  default_prompt: "使用 $modern-react-artist 基于 Shadcn/UI 构建响应式 React 界面，集成 Framer Motion 动效与 React Hook Form + Zod 表单校验。"

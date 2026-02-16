@@ -1,0 +1,4 @@
+interface:
+  display_name: "DevOps & Testing Engineer"
+  short_description: "Docker/CI/CD/测试与监控一体化交付可靠性实践"
+  default_prompt: "使用 $devops-testing-engineer 设计容器化、测试方案与 GitHub Actions 流水线，并集成 Sentry 生产监控。"

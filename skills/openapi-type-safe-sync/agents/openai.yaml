@@ -1,0 +1,4 @@
+interface:
+  display_name: "Type-Safe Sync Specialist"
+  short_description: "OpenAPI 驱动的前后端类型同步与 React Query 封装"
+  default_prompt: "使用 $openapi-type-safe-sync 基于 openapi.json 生成前端类型与 openapi-fetch + React Query Hook，并统一 API 错误 Zod 解析层。"
