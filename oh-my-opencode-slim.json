@@ -8,7 +8,7 @@
         "mcps": ["websearch"]
       },
       "oracle": {
-        "model": "anthropic/claude-opus-4-6",
+        "model": "google/antigravity-gemini-3-pro",
         "skills": [],
         "mcps": []
       },
@@ -40,7 +40,6 @@
     "timeoutMs": 15000,
     "chains": {
       "orchestrator": [
-        "anthropic/claude-opus-4-6",
         "openai/gpt-5.3-codex",
         "google/antigravity-gemini-3-pro"
       ],
