@@ -1,0 +1,1 @@
+/home/julien/.config/opencode/superpowers/.opencode/plugins/superpowers.js
