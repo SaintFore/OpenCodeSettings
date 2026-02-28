@@ -1,0 +1,4 @@
+interface:
+  display_name: "Quartz Blog Normalizer"
+  short_description: "Quartz 博客发布前规范化：文件名、description、draft、tags"
+  default_prompt: "使用 $quartz-blog-frontmatter-normalizer 规范 Quartz 博客文章：文件名改 kebab-case，补 description（中文概括）与 draft:true，中文 tags 转英文 kebab-case，正文不改动。"
