@@ -164,5 +164,12 @@
     "auto": true,
     "prune": true,
     "reserved": 10000
+  },
+  "mcp": {
+    "shadcn": {
+      "type": "local",
+      "command": ["npx", "shadcn@latest", "mcp"],
+      "enabled": true
+    }
   }
 }
